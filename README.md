@@ -18,7 +18,7 @@ I specialize in **React**, **TypeScript**, **design systems**, and **AI-augmente
 
 ### 🛠️ Tools I Use Daily
 
-TypeScript · React · Astro · Lit · Figma · Node.js · Storybook · Playwright · Vitest · Turborepo · Style Dictionary · Claude · Gemini · MCP
+JS · CSS · TypeScript · React · Next · Astro · Lit · Figma · Node.js · Storybook · Playwright · Vitest · Turborepo · Style Dictionary · Claude · Gemini · MCP
 
 ---
 
